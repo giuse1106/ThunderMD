@@ -21,12 +21,12 @@ Se stai utilizzando Termux su Android, puoi scaricarlo dal [Google Play Store](h
 1. Apri **Termux** e vai nella directory in cui vuoi clonare il repository.
 2. Clona il repository **ThunderMD** utilizzando **git**:
 
-   ```bash
+   ```
    git clone https://github.com/giuse1106/ThunderMD.git
    cd ThunderMD
    ```
 
-  ```bash
+  ```
   pkg update
   pkg upgrade
   pkg install nodejs
